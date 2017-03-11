@@ -3,7 +3,7 @@
 *node_modules
 
 #ignore tokens
-.env/
+.env
 
 ### Node ###
 # Logs
